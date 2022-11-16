@@ -72,3 +72,6 @@ Once you have executed the initial server setup, you can choose from any of the 
 ### Containers & K8s
 - [Docker on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-use-ansible-to-install-and-set-up-docker-on-ubuntu-18-04)
 
+### Reference doc 
+- https://www.digitalocean.com/community/tutorials/how-to-use-ansible-to-install-and-set-up-wordpress-with-lamp-on-ubuntu-18-04
+- https://www.digitalocean.com/community/tutorials/install-wordpress-on-ubuntu
